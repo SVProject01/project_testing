@@ -1,9 +1,9 @@
 ﻿# project 
  by psv Ltd. 
 
-# [Project Name] - Kaggle-like Data Science Competition Platform
+# [Start] - Kaggle-like Data Science Competition Platform
 
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="https://plus.unsplash.com/premium_photo-1678566153919-86c4ba4216f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y29kaW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60" alt="Girl in a jacket" width="500" height="600">
 
 
 ## Table of Contents
